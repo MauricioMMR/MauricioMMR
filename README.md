@@ -1,48 +1,57 @@
-# Oi! Eu sou Mauricio Miranda da Rocha 👋  
+# Olá, eu sou Maurício Miranda 👋
+
+Sou entusiasta de tecnologia e programação, sempre buscando **aprender e evoluir**.  
+Meu foco é explorar o desenvolvimento **Web, APIs e boas práticas de programação**.
+
+Atualmente estudo e pratico linguagens voltadas para **PHP, JavaScript e SQL**, além de explorar **frameworks e ferramentas** para acelerar o desenvolvimento.
+
+---
+![Banner Maurício Miranda](https://via.placeholder.com/800x200/00AA00/FFFFFF?text=Maurício+Miranda+-+Desenvolvedor+PHP+%26+JavaScript)
 
 ---
 
-## 🚀 Sobre mim
-Sou desenvolvedor apaixonado por tecnologia e programação, sempre buscando criar soluções inteligentes e eficientes.  
-Atualmente trabalho/dedico-me ao aprendizado em **desenvolvimento web e backend**, explorando novas tecnologias e boas práticas.  
+## 🚀 Tecnologias com as quais tenho contato
 
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MauricioMMR&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioMMR&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
----
-
-## 🛠️ Tecnologias que domino
-<div style="display: inline_block"><br>
-  <img align="center" alt="JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Laravel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
-</div>
-
----
-
-## 🌍 Como me encontrar
 <div>
-  <a href="mailto:mauriciomiranda.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/Mauricio_Rocha0" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/MauricioMiranda" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redes-00FF00?style=for-the-badge&logo=network-wired&logoColor=white" />
 </div>
 
 ---
 
-## 🎨 Avatar/Estilo
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1105135649752037447/1175880851092895774/astronauta-minimalista.png" width="200"/>
-</p>
+## 📚 Estou aprendendo atualmente
+
+- Boas práticas com **PHP** (organização de código e padrões de projeto)  
+- Banco de dados relacionais **MySQL**  
+- Publicação de pacotes e projetos no **Composer / Packagist**
 
 ---
 
-✨ Feito com dedicação por **Mauricio Miranda da Rocha**
+## 💡 Curiosidades
+
+- Gosto de **aprender coisas novas todos os dias**  
+- Tenho interesse em **desenvolver projetos open-source**  
+- Curto **explorar novas ferramentas e frameworks**
+
+---
+
+## 📊 Minhas estatísticas no GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MauricioMMR&show_icons=true&theme=radical)
+
+---
+
+## 📫 Como entrar em contato comigo
+
+- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- [GitHub](https://github.com/MauricioMMR)
+
+---
+
+## 👁️ Contador de visitas
+
+![Visitor Count](https://profile-counter.glitch.me/MauricioMMR/count.svg)
